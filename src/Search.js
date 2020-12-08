@@ -34,8 +34,6 @@ class Search extends Component {
         this.setState({amount:this.state.amount})
     }
     render() {
-        console.log(this.state.images)
-
         return (
             <Container sm>
                 <Box>
